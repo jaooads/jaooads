@@ -1,2 +1,2 @@
-- 👋 Estudante de Desemvolvimento de Sistemas
+👋 Systems Development Student
 
