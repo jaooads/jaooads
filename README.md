@@ -8,3 +8,5 @@ Developer Back_End
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-arthur-dos-santos-8a2145244/)
