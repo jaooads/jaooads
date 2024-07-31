@@ -1,6 +1,6 @@
 <!-- Início da "tela de TV" -->
 
-<div align="center" style="border: 5px solid rgb(255, 0, 0); border-radius: 15px; padding: 20px; background: rgb(0, 0, 0); color: rgb(255, 255, 255); font-family: Arial, sans-serif; max-width: 600px; margin: auto;">
+<div align="center" style="border: 10px solid; border-image: linear-gradient(to right, red, yellow, green, cyan, blue, magenta, red); border-image-slice: 1; border-radius: 15px; padding: 20px; background: rgb(0, 0, 0); color: rgb(255, 255, 255); font-family: Arial, sans-serif; max-width: 800px; margin: auto;">
 
 # 📺 Developer Back-End 👋
 
