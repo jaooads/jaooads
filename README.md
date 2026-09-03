@@ -9,6 +9,6 @@ Developer Back_End
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-arthur-dos-santos-8a2145244/)
+[![LinkedIn](https://www.linkedin.com/in/joao-arthur-7b00b5396/)
 
 🔗 [**Acesse meu portfólio aqui**](https://jaooads.github.io/portifolio/)
