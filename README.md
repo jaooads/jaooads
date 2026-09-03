@@ -34,8 +34,8 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaooads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaooads&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens Mais Usadas" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jaooads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaooads&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens Mais Usadas" />
 </p>
 
 ---
