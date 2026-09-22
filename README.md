@@ -29,6 +29,4 @@ Building scalable APIs, microservices, and robust backend architectures.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-arthur-7b00b5396/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white)](https://jaooads.github.io/portifolio/)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jaooads/snake-graph/main/snake-dark.svg" alt="GitHub Contribution Snake">
-</div>
+![GitHub Snake](https://raw.githubusercontent.com/jaooads/jaooads/output/github-contribution-grid-snake.svg)
